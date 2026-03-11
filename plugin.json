@@ -1,0 +1,28 @@
+{
+    "name": "996-workhorse",
+    "version": "2.0.0",
+    "description": "996/007 智能工作狂模式 - 让AI像996一样高强度工作，像007一样全天候待命。v2.0新增：智能调度、质量保障、安全机制、方法论指导",
+    "author": {
+        "name": "konglong",
+        "url": "https://github.com/konglong87"
+    },
+    "homepage": "https://github.com/konglong87/996",
+    "repository": "https://github.com/konglong87/996",
+    "license": "MIT",
+    "keywords": [
+        "996",
+        "007",
+        "workhorse",
+        "hardcore",
+        "motivation",
+        "productivity",
+        "AI",
+        "agent",
+        "opencode",
+        "claude",
+        "cursor",
+        "intelligent-scheduling",
+        "quality-assurance",
+        "safe-boundaries"
+    ]
+}
