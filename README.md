@@ -129,11 +129,21 @@
 ### Claude Code / Cline
 
 ```bash
-# 方式一：添加 marketplace 后安装
+# 添加 marketplace
 claude plugin marketplace add konglong87/996
-claude plugin install 996-workhorse@996-workhorse
 
-# 方式二：手动安装
+# 安装插件
+claude plugin install 996@996-workhorse
+
+# 验证安装
+claude plugin list
+```
+
+### 手动安装（仅限开发调试）
+
+```bash
+# 不推荐：手动克隆方式仅用于开发调试
+# 正常使用请通过 marketplace 安装
 git clone https://github.com/konglong87/996.git ~/.claude/plugins/996-workhorse
 ```
 
