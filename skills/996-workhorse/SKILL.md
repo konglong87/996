@@ -817,5 +817,3 @@ v2.0 优化：智能调度、质量保障、安全机制、方法论指导
 ---
 
 ## 致谢
-
-本项目受 [pua-debugging](https://github.com/tanweai/pua) 启发，感谢探微安全实验室的创新思路。
