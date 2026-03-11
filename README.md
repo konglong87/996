@@ -164,10 +164,10 @@ curl -o ~/.cursor/rules/996-workhorse.md \
 
 ## 组合技
 
-搭配 [pua-debugging](https://github.com/tanweai/pua) 使用效果更佳：
+搭配 [pua](https://github.com/tanweai/pua) 使用效果更佳：
 
-- `pua-debugging` — 负责**不放弃**
-- `996-workhorse` — 负责**不停歇**
+- `pua` — 负责**不放弃**
+- `996-007` — 负责**不停歇**
 
 两者叠加 = 永动机 + 不放弃 + 无限输出 = 真正的 AI 工作狂
 
